@@ -1,0 +1,5 @@
+Please start with localhost/project/index.html.
+
+Session, cookie and applicatioon are initialised in the login.asp.
+Thus it is important to start from above.
+You can see cart and order per user. Which means that cart and order will be saved everytime you login. Also for different users, it will show their cart and oder. 
